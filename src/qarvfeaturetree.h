@@ -20,8 +20,8 @@
 #ifndef QARVFEATURETREE_H
 #define QARVFEATURETREE_H
 
+#include <arv.h>
 extern "C" {
-  #include <arv.h>
   #include <gio/gio.h>
 }
 #include "api/qarvcamera.h"

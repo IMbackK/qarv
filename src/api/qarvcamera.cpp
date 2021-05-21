@@ -17,8 +17,8 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
+#include <arv.h>
 extern "C" {
-  #include <arv.h>
   #include <gio/gio.h>
   #include <sys/socket.h>
 }
